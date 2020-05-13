@@ -1,0 +1,5 @@
+pages\LandingPage.class
+pages\LoginPage.class
+util\PropertyReader.class
+steps\LoginPageSteps.class
+util\PropertyStorage.class
